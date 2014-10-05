@@ -1,11 +1,12 @@
 # Site settings
-title: The personal blog of Jordan Burke, Digital Enabler.
+title: Love, Burt Macklin - FBI
 tagline: Site Tagline
 author :
   name : Jordan Burke
   email : me@jordankburke.com
   github : PendragonDevelopment
   twitter : PendragonDev
+subtitle: The personal blog of Jordan Burke, Digital Enabler.
 description: > # this means to ignore newlines until "baseurl:"
   The uninspired rantings of a madman with a box.
 baseurl: "" # the subpath of your site, e.g. /blog/
